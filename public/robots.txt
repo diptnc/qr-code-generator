@@ -1,0 +1,2 @@
+User-agent: *
+Sitemap: https://qrcode-generator.diptanuchakraborty.in/sitemap.xml
